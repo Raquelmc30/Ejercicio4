@@ -6,7 +6,7 @@ package com.mycompany.ejercicio4;
 
 /**
  *
- * @author alumno1DAW
+ * @author raquel
  */
 public class Ejercicio4 {
 
